@@ -1,0 +1,102 @@
+body {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.self_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.self_image img {
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+h1 {
+    color: #CAEDFF;
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
+
+h2 {
+    color: #D8B4F8;
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
+
+h3 {
+    color: #FFC7EA;
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
+
+h4 {
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
+
+.Introduction {
+   background-color: #F3FDE8;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.Information_and_contact {
+    background-image: url(https://img.magnific.com/free-vector/seamless-chaotic-square-pattern-background-vector-graphic-design-from-random-rotated-squares-with-opacity-effect_1164-1118.jpg?semt=ais_hybrid&w=740&q=80);
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px;
+    max-width: 600px;
+    
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px 20px 5px 20px;
+}
+
+th {
+    background-color: rgb(168, 228, 228);
+}
+
+th:last-child, td:last-child {
+    text-align: center;
+}
+
+nav {
+    background-color: #d4f2f4;
+    color: #0b0848;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: #0b0848;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+
+footer {
+    background-color: #d4f2f4;
+    color: #0b0848;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+ 
+
